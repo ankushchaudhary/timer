@@ -5,5 +5,4 @@ Which gives you a simple GUI for starting a 5 min and 25 min pomodoro session.
 For running this project from commandline
 Go to timer directory
 <br>
---> javac TimerApp.java <br>
---> java TimerApp
+--> javac -jar timer.jar <br>
